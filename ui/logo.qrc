@@ -1,0 +1,23 @@
+<RCC>
+  <qresource prefix="ccr">
+    <file>mapa_final.png</file>
+    <file>fondoborde.png</file>
+    <file>architecture-building-colorful-1881696.jpg</file>
+    <file>abstract-background-blur-949587 (1).jpg</file>
+    <file>fondo.png</file>
+    <file>planeta_Tierra.png</file>
+    <file>planeta_Tierra.png</file>
+    <file>doble.png</file>
+    <file>Cruz_roja.png</file>
+    <file>TickVerde.png</file>
+    <file>simple.png</file>
+    <file>espiral.png</file>
+    <file>horizontal.png</file>
+    <file>casa-geotermia.png</file>
+  </qresource>
+  <qresource prefix="geo">
+    <file>logo.png</file>
+    <file>helicoidal.png</file>
+    <file>Imagen1.png</file>
+  </qresource>
+</RCC>
